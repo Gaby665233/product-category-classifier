@@ -1,0 +1,14 @@
+{
+  "selected_model": "Linear SVC + features",
+  "test_scores": {
+    "Accuracy": 0.9633414436334145,
+    "Precision macro": 0.9647705751703466,
+    "Recall macro": 0.9644915045265738,
+    "F1 macro": 0.9645138463744173,
+    "F1 weighted": 0.9633407974791718
+  },
+  "train_size": 24657,
+  "test_size": 6165,
+  "unique_titles_used": 30822,
+  "sklearn_version": "1.8.0"
+}
